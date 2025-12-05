@@ -20,7 +20,7 @@ Deployed link: [Portfolio](https://o9-9.github.io/hex/).
 [CLICK HERE](https://o9-9.github.io/hex/) to find the right color for you. All are labeled with hex-color codes, such as `#D35400`, my favorite orange. Each color is also a link to more information about the color from `www.color-hex.com`. For my favorite orange, the link reads [https://www.color-hex.com/color/D35400](https://www.color-hex.com/color/D35400). 
 
 ## Contact
-<img src ="https://github.com/user-attachments/assets/0c0146a5-4118-4aa7-a0af-8cfcbd8bbbae" alt="Github profile image" width="80px" height="80px" />
+<img src ="https://github.com/user-attachments/assets/6d68473c-bbf2-4517-912c-9a8f7d416263" alt="Github profile image" width="80px" height="80px" />
 
 __o9__ 
 
